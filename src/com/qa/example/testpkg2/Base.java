@@ -18,6 +18,7 @@ public class Base {
 	{
 		Login objLogin = new Login();
 		objLogin.display();
+		System.out.println("Ranjan");
 	}
 
 }
