@@ -6,7 +6,7 @@ public class Login {
 	
 	public void display()
 	{
-		System.out.println("This is test project123");
+		System.out.println("This is test project");
 	}
 
 }
